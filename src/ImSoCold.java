@@ -9,7 +9,8 @@ public class ImSoCold {
         System.out.println("So cold");
         System.out.println("So cold");
         System.out.println("So cold");
-        System.out.println("So");
+        System.out.println("So...");
+        System.out.println("");
         System.out.println("cold");
     }
 }
